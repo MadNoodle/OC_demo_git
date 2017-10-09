@@ -1,2 +1,4 @@
 # OC_demo_git
-Une démo git qui se passe bien 
+==============
+
+Ce git est un projet pour bien comprendre la mécanique de git et son interaction GitHub donc d’autres codeurs.
